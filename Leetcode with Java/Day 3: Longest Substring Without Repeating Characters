@@ -1,4 +1,4 @@
-#Challenge
+#Challenge:
 Given a string s, find the length of the longest substring without repeating characters.
 
 Example 1:
@@ -24,7 +24,7 @@ s consists of English letters, digits, symbols and spaces.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Solution
+#Solution:
 
 public class Solution {
     public int lengthOfLongestSubstring(String s) {
