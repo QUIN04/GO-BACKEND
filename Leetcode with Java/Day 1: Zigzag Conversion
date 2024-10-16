@@ -63,7 +63,9 @@ public class Solution {
         StringBuilder result = new StringBuilder();
         for (StringBuilder row : sb) {
             result.append(row);
-        }
+        } // <--- You were missing this closing brace
         return result.toString();
+    }
+}
     }
 }
